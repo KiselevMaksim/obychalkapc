@@ -6,6 +6,6 @@
 	<title>Обучалка ПК</title>
 </head>
 <body>
-	<p>test</p>
+	<p> тестовая надпись тестов</p>
 </body>
 </html>
